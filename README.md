@@ -1,2 +1,3 @@
 # hello-world
-My first repository on GitHub
+My first (but not last) repository in GitHub
+Learning how to use GitHub.  Once again a noob.  #iteratenoobfunction
